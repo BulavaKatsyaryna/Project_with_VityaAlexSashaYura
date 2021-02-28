@@ -1,3 +1,0 @@
-# Telegram Bot
-
-for JavaGuru
